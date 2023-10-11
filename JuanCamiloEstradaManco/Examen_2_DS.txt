@@ -1,0 +1,26 @@
+Examen 2 DS		                  octubre 2 de 2021
+Nombre: Juan Camilo Estrada Manco
+        Gloria Estella Gil Ibarra 
+						                                
+El ITM está interesado en una aplicación para la liquidación de matrículas. La liquidación se realiza con 
+base en la cantidad de horas que realiza el estudiante y de la carrera a la que aplica. La hora de las 
+carreras profesionales (Ingenierías) se cobra a $35.000 y las de tecnologías a $22.500.
+
+El ITM ofrece descuento de acuerdo al estrato donde vive el estudiante, de acuerdo a la siguiente tabla:
+Estrato			Porcentaje descuento
+1 – 2			55%
+3			35%
+4 y 5			15%
+6			0%
+
+Este descuento se aplica sobre el valor a pagar:
+Por ejemplo, un estudiante matriculado en ingeniería de sistemas con 20 horas que vive en estrato 2, 
+paga $700.000 con un descuento de $385.000, para un pago final de $315.000
+Realice una regla de  negocio para calcular el descuento y elabórela con la ayuda de un archivo .xml.
+En parejas
+Entregue una carpeta comprimida con su nombre y los archivos de extensión .cs y .aspx.cs
+un bloc de notas con la fecha del examen, número del examen y el grupo (Sábado)
+Agregue imágenes del sistema funcionando.
+En la siguiente clase, debe presentar el examen funcionando al profesor. (Sólo si le funcionó)
+Enviar el examen al correo institucional. Plazo máximo 6:00 pm.
+joseramirez8046@correo.itm.edu.co
